@@ -2,11 +2,10 @@
     padding: 0px;
     margin: 0;
     box-sizing: border-box;
-    
-
+    font-family: 'Courier New', Courier, monospace;
 }
 body{
-    background-image: url(fnaf.png);
+    background-image: url(fanf2.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -15,10 +14,11 @@ body{
 
 .container{
     display: flex;
+    
 }
 
 header{
-    border: 5px solid rgb(255, 0, 0);
+    border: px solid rgb(255, 0, 0);
     display: flex;
     height: 100vh;
     width: 70vh;
@@ -27,10 +27,12 @@ header{
 }
 
 .five{
-    border: 1px solid rgb(145, 255, 0);
-    height:20vh ;
-    width: 55vh;
+    border: px solid rgb(145, 255, 0);
+    height: 50vh ;
+    width: 50vh;
+    margin-top: 50px;
 } 
+
 p{/* tamanho perso. da fonte five.... */
     font-size: 6rem;
 }
