@@ -9,3 +9,16 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    width: 10vh;
+}
