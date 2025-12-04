@@ -23,6 +23,7 @@ header{
     height: 100vh;
     width: 70vh;
     justify-content: end;
+    flex-wrap: wrap;
 }
 
 .five{
@@ -30,3 +31,8 @@ header{
     height:20vh ;
     width: 55vh;
 } 
+.new{
+    border: 1px solid blueviolet;
+    height: 10vh;
+    width: 30vh;
+}
