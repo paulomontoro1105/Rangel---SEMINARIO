@@ -2,8 +2,7 @@
     padding: 0px;
     margin: 0;
     box-sizing: border-box;
-    
-
+    font-family: 'Courier New', Courier, monospace;
 }
 body{
     background-image: url(fnaf.png);
@@ -27,6 +26,11 @@ header{
 
 .five{
     border: 1px solid rgb(145, 255, 0);
-    height:20vh ;
+    height:25vh ;
     width: 55vh;
 } 
+
+p{
+    font-size: 6rem;
+}
+
