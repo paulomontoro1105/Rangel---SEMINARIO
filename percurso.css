@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+    
+
+}
+body{
+    background-image: url(percurso2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
