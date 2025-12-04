@@ -31,3 +31,33 @@ header{
     height:20vh ;
     width: 55vh;
 } 
+p{/* tamanho perso. da fonte five.... */
+    font-size: 6rem;
+}
+
+.menu{
+    border: px solid blue;
+    height: 30vh;
+    width: 50vh;
+}
+
+p1{
+    font-size: 4rem;
+}
+
+p2{
+    font-size: 4rem;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+a:hover{
+    color: brown;
+}
+
+a2:hover{
+    color: brown;
+}
